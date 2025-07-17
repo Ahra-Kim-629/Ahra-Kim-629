@@ -1,6 +1,6 @@
 # Hi, I'm Ahra!
 
-I'm a junior web developer from South Korea 🇰🇷, currently living in New Zealand 🇳🇿.  
+I'm a full-stack software developer from South Korea 🇰🇷, currently living in New Zealand 🇳🇿.  
 I love learning by building — especially with React, TypeScript, and Express.
 
 ## Featured Project
