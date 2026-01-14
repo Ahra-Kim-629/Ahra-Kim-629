@@ -20,8 +20,7 @@
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
-          <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-          <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
