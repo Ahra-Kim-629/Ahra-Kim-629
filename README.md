@@ -8,7 +8,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
@@ -20,6 +20,8 @@
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
+          <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
